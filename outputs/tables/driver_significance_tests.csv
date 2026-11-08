@@ -1,0 +1,27 @@
+feature,test,p_value,effect_size,median_leavers,median_stayers,significant_at_5pct
+total_working_years,Mann-Whitney U,2.40e-14,0.312,7.0,10.0,True
+monthly_income,Mann-Whitney U,2.95e-14,0.311,3202.0,5204.0,True
+years_at_company,Mann-Whitney U,2.92e-13,0.298,3.0,6.0,True
+years_in_role,Mann-Whitney U,4.43e-12,0.28,2.0,3.0,True
+years_with_manager,Mann-Whitney U,1.81e-11,0.272,2.0,3.0,True
+age,Mann-Whitney U,5.30e-11,0.269,32.0,36.0,True
+overtime,chi-square,8.16e-21,0.244,,,True
+job_role,chi-square,2.75e-15,0.242,,,True
+job_level,chi-square,6.63e-15,0.222,,,True
+stock_option_level,chi-square,4.38e-13,0.203,,,True
+marital_status,chi-square,9.46e-11,0.177,,,True
+job_involvement,chi-square,2.86e-06,0.139,,,True
+business_travel,chi-square,5.61e-06,0.128,,,True
+distance_km,Mann-Whitney U,2.39e-03,-0.124,9.0,7.0,True
+env_satisfaction,chi-square,5.12e-05,0.124,,,True
+job_satisfaction,chi-square,5.56e-04,0.109,,,True
+work_life_balance,chi-square,9.73e-04,0.105,,,True
+education_field,chi-square,6.77e-03,0.104,,,True
+department,chi-square,4.53e-03,0.086,,,True
+years_since_promotion,Mann-Whitney U,4.12e-02,0.08,1.0,1.0,True
+trainings_last_year,Mann-Whitney U,4.73e-02,0.078,2.0,3.0,True
+num_companies_worked,Mann-Whitney U,2.42e-01,-0.047,1.0,2.0,False
+education_level,chi-square,5.46e-01,0.046,,,False
+salary_hike_pct,Mann-Whitney U,3.66e-01,0.037,14.0,14.0,False
+gender,chi-square,2.91e-01,0.028,,,False
+performance_rating,chi-square,9.90e-01,0.0,,,False

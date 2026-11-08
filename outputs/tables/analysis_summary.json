@@ -1,0 +1,15 @@
+{
+  "tree_test_auc": 0.692,
+  "lr_test_auc": 0.804,
+  "whatif_overtime": {
+    "leavers_avoided": 83.0,
+    "cost_avoided": 2278126.0,
+    "pct_of_all_leavers": 35.1
+  },
+  "pay_equity": {
+    "raw_median_gap_pct": -5.0,
+    "adjusted_gap_pct": 0.01,
+    "p_value": 0.994,
+    "r_squared": 0.87
+  }
+}

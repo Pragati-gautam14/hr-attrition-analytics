@@ -1,0 +1,22 @@
+|--- years_at_company <= 2.5
+|   |--- age <= 39.5
+|   |   |--- stock_option_level <= 0.5
+|   |   |   |--- class: 1
+|   |   |--- stock_option_level >  0.5
+|   |   |   |--- class: 1
+|   |--- age >  39.5
+|   |   |--- distance_km <= 8.5
+|   |   |   |--- class: 0
+|   |   |--- distance_km >  8.5
+|   |   |   |--- class: 0
+|--- years_at_company >  2.5
+|   |--- overtime <= 0.5
+|   |   |--- work_life_balance <= 1.5
+|   |   |   |--- class: 1
+|   |   |--- work_life_balance >  1.5
+|   |   |   |--- class: 0
+|   |--- overtime >  0.5
+|   |   |--- job_level <= 1.5
+|   |   |   |--- class: 1
+|   |   |--- job_level >  1.5
+|   |   |   |--- class: 0

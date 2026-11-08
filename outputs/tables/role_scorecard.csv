@@ -1,0 +1,12 @@
+department,job_role,headcount,leavers,attrition_rate_pct,overtime_pct,median_monthly_income,avg_engagement,avg_years_since_promotion,est_replacement_cost,risk_rank
+Sales,Sales Representative,83,33.0,39.8,29.0,2579.0,2.72,1.1,468216.0,1
+Research & Development,Laboratory Technician,259,62.0,23.9,24.0,2886.0,2.7,1.4,1085964.0,2
+Human Resources,Human Resources,52,12.0,23.1,25.0,3093.0,2.75,1.3,267534.0,3
+Sales,Sales Executive,326,57.0,17.5,29.0,6231.0,2.73,2.5,2561238.0,4
+Research & Development,Research Scientist,292,47.0,16.1,33.0,2888.0,2.74,1.5,784092.0,5
+Research & Development,Manufacturing Director,145,10.0,6.9,27.0,6447.0,2.75,2.1,441930.0,6
+Research & Development,Healthcare Representative,131,9.0,6.9,28.0,6811.0,2.74,3.0,461604.0,7
+Research & Development,Manager,54,3.0,5.6,24.0,17546.0,2.77,5.5,271908.0,8
+Sales,Manager,37,2.0,5.4,27.0,17048.0,2.74,4.1,232014.0,9
+Research & Development,Research Director,80,2.0,2.5,29.0,16510.0,2.7,3.2,232746.0,10
+Human Resources,Manager,11,0.0,0.0,36.0,18844.0,2.85,4.2,,11

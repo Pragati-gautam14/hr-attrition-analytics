@@ -1,0 +1,5 @@
+check_name,value
+Employees,1470
+Duplicate employee IDs,0
+Null values (all columns),0
+Constant columns dropped,"EmployeeCount, Over18, StandardHours"
